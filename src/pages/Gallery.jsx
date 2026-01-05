@@ -8,7 +8,11 @@ const Gallery = () => {
         'https://taips.edu.in/wp-content/uploads/2023/10/379184687_727759576033958_3917619667971993045_n.webp',
         'https://i0.wp.com/www.drpbps.in/wp-content/uploads/2024/02/5.webp?fit=1024%2C681&ssl=1',
         'https://suchitra.in/wp-content/uploads/2024/07/SA-GAL24-7-1024x682.jpg',
-        'https://suchitra.in/wp-content/uploads/2021/07/suchitra_academy_art_craft.jpg'
+      
+        'https://arborinternationalschool.com/wp-content/uploads/2025/11/Gallery-02.jpg',
+        'https://taips.edu.in/wp-content/uploads/2023/10/379184687_727759576033958_3917619667971993045_n.webp',
+        'https://suchitra.in/wp-content/uploads/2021/07/suchitra_academy_art_craft.jpg',
+        'https://i0.wp.com/www.drpbps.in/wp-content/uploads/2024/02/5.webp?fit=1024%2C681&ssl=1',
     ];
 
     return (
