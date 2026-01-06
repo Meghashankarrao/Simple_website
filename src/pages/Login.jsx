@@ -28,13 +28,13 @@ const Login = () => {
                     justify-content: center;
                     align-items: center;
                     min-height: 80vh;
-                    background-color: #f5f5f5;
+                    background-color: #e3e0e0ff;
                 }
                 .login-container {
                     background: white;
                     padding: 40px;
                     border-radius: 10px;
-                    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                    box-shadow: 5px 10px 10px rgba(0,0,0,0.1);
                     width: 350px;
                 }
                 .login-container h2 {
@@ -48,12 +48,12 @@ const Login = () => {
                 .form-group label {
                     display: block;
                     margin-bottom: 5px;
-                    color: #555;
+                    color: #181616ff;
                 }
                 .form-group input {
                     width: 100%;
                     padding: 10px;
-                    border: 1px solid #ddd;
+                    border: 1px solid #bfbabaff;
                     border-radius: 5px;
                 }
                 .login-btn {
